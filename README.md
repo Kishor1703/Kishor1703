@@ -47,7 +47,7 @@ All my projects are available at **[github.com/Kishor1703](https://github.com/Ki
 |---|---|
 | ✉️ Email | [pskishor196@gmail.com](mailto:pskishor196@gmail.com) |
 | 💼 LinkedIn | [kishor-kumar-s-6806a125b](https://www.linkedin.com/in/kishor-kumar-s-6806a125b/) |
-| 🌐 Portfolio | [portfolio-three-beige-69.vercel.app](https://portfolio-three-beige-69.vercel.app/) |
+| 🌐 Portfolio | [portfolio](https://kishors-portfolio.vercel.app/) |
 
 ---
 
